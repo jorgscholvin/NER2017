@@ -1,6 +1,7 @@
 # NER2017
-Neural probe simulations for NER 2017 paper
+<b>Neural probe simulations for NER 2017 paper</b>
 
-<b>Test</b>
+This project contains the MATLAB code to run the simulations for our paper "" for "". 
+<hr>
 
-Test
+Overview:
